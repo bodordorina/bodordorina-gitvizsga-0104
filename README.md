@@ -7,3 +7,5 @@ Vizsga során alkalmazott git parancsok
     - git branch console -> új ág létrehozása, melynek neve console lesz
     - git checkout console -> átváltom az ágamat main-ről console-ra
     - git commit -m "milyen változtatásokat hajtottunk végre" -> rögzítjük az eddigi változtatásokat egy verzióban
+    - git remote add origin -> távoli gyűjtemény megadása
+    - git push -u origin main console -> main ill. console ág feltöltése a távoli gyűjteménybe
