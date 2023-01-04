@@ -1,0 +1,5 @@
+#txt, doc, docx, pdf kiterjesztésű fájlok ignorálása
+*.txt
+*.doc
+*.docx
+*.pdf
